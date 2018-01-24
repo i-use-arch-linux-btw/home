@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://iblender.github.io/home/index.html</loc>
+    <lastmod>2018-01-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://iblender.github.io/home/images/bkg_02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://iblender.github.io/home/images/bkg_03.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://iblender.github.io/home/images/bkg_04.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://iblender.github.io/home/images/ftblegacy1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://iblender.github.io/home/images/ftblegacy4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://iblender.github.io/home/images/ftblegacy1341x150.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://iblender.github.io/home/images/ftblegacy4443x251.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://iblender.github.io/home/images/ftblegacy1322x142.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://iblender.github.io/home/images/ftblegacy4288x163.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
