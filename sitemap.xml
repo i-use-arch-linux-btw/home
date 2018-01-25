@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://iblender.github.io/home/index.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -24,13 +24,49 @@
       <image:loc>https://iblender.github.io/home/images/ftblegacy1341x150.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://iblender.github.io/home/images/ftblegacy4443x251.jpg</image:loc>
+      <image:loc>https://iblender.github.io/home/images/curse2-crop-u15820.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://iblender.github.io/home/images/ftblegacy1322x142.jpg</image:loc>
+      <image:loc>https://iblender.github.io/home/images/curse3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://iblender.github.io/home/images/ftblegacy4288x163.jpg</image:loc>
+      <image:loc>https://iblender.github.io/home/images/b8824f4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://iblender.github.io/home/images/b8824f4_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://iblender.github.io/home/images/curse2-crop-u158202.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://iblender.github.io/home/images/curse2-crop-u158203.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://iblender.github.io/home/images/curse3575x334.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://iblender.github.io/home/images/b8824f4575x352.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://iblender.github.io/home/images/b8824f4575x352_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://iblender.github.io/home/images/ftblegacy4610x345.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://iblender.github.io/home/images/ftblegacy1331x146.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://iblender.github.io/home/images/ftblegacy4417x236.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://iblender.github.io/home/images/curse3519x301.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://iblender.github.io/home/images/b8824f4519x318.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://iblender.github.io/home/images/b8824f4519x318_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
