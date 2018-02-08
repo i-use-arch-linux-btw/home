@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://iblender.github.io/home/index.html</loc>
-    <lastmod>2018-01-25</lastmod>
+    <lastmod>2018-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -67,6 +67,24 @@
     </image:image>
     <image:image>
       <image:loc>https://iblender.github.io/home/images/b8824f4519x318_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://iblender.github.io/home/images/ftblegacy1190x84.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://iblender.github.io/home/images/ftblegacy4239x135.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://iblender.github.io/home/images/curse2-crop-u158204.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://iblender.github.io/home/images/curse3298x173.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://iblender.github.io/home/images/b8824f4298x182.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://iblender.github.io/home/images/b8824f4298x182_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
