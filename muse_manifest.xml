@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://iblender.github.io/home" resolutions="1x,2x" timestamp="1518192181245">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://iblender.github.io/home" resolutions="1x,2x" timestamp="1518192463672">
   <folder name="css">
     <file name="site_global.css" crc="435016190"/>
-    <file name="index.css" crc="258065423" ref="index"/>
-    <file name="nomq_index.css" crc="3851064067" ref="index"/>
+    <file name="index.css" crc="4274052778" ref="index"/>
+    <file name="nomq_index.css" crc="113557946" ref="index"/>
     <file name="iefonts_index.css" crc="506362042" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -167,5 +167,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4118929839" seo="true" mt="1518192166639" redirect="true"/>
+  <file name="index.html" crc="529036309" seo="true" mt="1518192427007" redirect="true"/>
 </manifest>
